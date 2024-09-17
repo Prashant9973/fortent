@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(47, 166, 196);
+    color: rgb(233, 212, 212);
+}
+p{
+    background-color: red;
+    color: white;
+}
+a{
+    background-color: red; 
+}
+.red{
+    background-color: rgb(184, 152, 27);
+}
+#firstdiv{
+    background-color: rgb(233, 213, 213);
+}
+.id{
+    font-style: italic;
+}
